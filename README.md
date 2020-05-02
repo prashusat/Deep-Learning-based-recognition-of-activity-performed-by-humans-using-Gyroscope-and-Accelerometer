@@ -21,10 +21,7 @@ The labels folder which is y_train.txt and y_test has 6 different labels and the
 
 
 
-      File "<ipython-input-1-4b35a82b09bc>", line 1
-        <ul><h1>Aim:</h1></ul><br/>
-        ^
-    SyntaxError: invalid syntax
+   
 
 
 
