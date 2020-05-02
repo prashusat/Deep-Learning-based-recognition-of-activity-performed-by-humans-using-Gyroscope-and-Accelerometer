@@ -19,4 +19,5 @@ The labels folder which is y_train.txt and y_test has 6 different labels and the
 5 STANDING<br/>
 6 LAYING<br/>
 
-<ul><h1> Conclusions: Scroll down the ipynb file for conclusions. </h1></ul><br/>
+<ul><h1> Conclusions:  </h1></ul><br/>
+Scroll down the ipynb file for conclusions.
