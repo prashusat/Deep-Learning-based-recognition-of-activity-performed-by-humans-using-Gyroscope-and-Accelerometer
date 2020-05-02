@@ -1,4 +1,3 @@
-```python
 <ul><h1>Aim:</h1></ul><br/>
 The aim of the project is to use data collected from mobile gyroscome and accelerometers and build a sequence model using LSTM's to classify the type of activity being performed by a human being within a given interval.<br/>
 <br/>
@@ -20,7 +19,6 @@ The labels folder which is y_train.txt and y_test has 6 different labels and the
 5 STANDING<br/>
 6 LAYING<br/>
 
-```
 
 
       File "<ipython-input-1-4b35a82b09bc>", line 1
